@@ -1,0 +1,113 @@
+header {
+background-color:orange;
+font-family:impact;
+color:white;
+font-size:50px;
+// border-radius:30px 30px;
+}
+
+header p {
+color:blue;
+font-family:impact;
+font-size:25px
+padding: none;
+}
+
+p {
+padding:5px;
+color:white;
+font-size:14px;
+}
+
+body {
+margin: 50px 50px 50px 50px;
+font-family:cambria;
+background:black;
+color:bla;
+}
+
+ul li {
+color:white;
+font-size:14px;
+}
+h1{
+padding:none;
+}
+h2 {
+color:white;
+font-family:arial;
+font-size:15px;
+}
+a:link {
+color:white;
+}
+a:hover {
+color:gray;
+}
+a:visited {
+color:orange;
+}
+a:active {
+color:yellow;
+}
+footer {
+height: 34px;
+font-family:cambria;
+font-size:24px;
+color:blue;
+background-color:black;
+border-radius:30px 30px;
+clear:both;
+
+}
+
+
+#media1 {
+	border-radius:15px;
+	float:left;
+	padding:10px;
+	border:10px;
+	margin:10px;
+	height: 250px;
+	width: 470px;
+	background-color:black;
+}
+
+
+#text1{
+	//border-radius:15px;
+Float:left;
+clear:left;
+	padding:10px;
+	border-right-style:solid;
+	border-right-color:red;
+	border-width:2px;
+	margin:10px;
+	height: 250px;
+	width: 470px;
+	background-color:black;
+}
+
+#mediablock {
+	padding-left:100px;
+	
+}
+#donnieyen {
+	float:right;
+	padding-right:150px;
+}
+#attributes {
+	float:left;
+}
+#principles {
+	float:left;
+}
+#whatisvingtsun {
+	width:300px;
+}
+#vtcurriculum {
+	float:right;
+	padding-right:200px;
+	
+	
+}

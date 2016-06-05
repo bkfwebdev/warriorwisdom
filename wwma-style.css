@@ -1,0 +1,133 @@
+header {
+background-color:orange;
+font-family:impact;
+color:blue;
+font-size:50px;
+// border-radius:30px 30px;
+}
+header p {
+color:blue;
+font-family:impact;
+font-size:25px
+padding: none;
+}
+p {
+padding:5px;
+}
+
+body {
+margin: 50px 50px 50px 50px;
+font-family:cambria;
+background:black;
+}
+p {
+color:white;
+font-size:14px;
+}
+ul li {
+color:white;
+font-size:14px;
+}
+h1{
+padding:none;
+}
+h2 {
+color:white;
+font-family:arial;
+font-size:15px;
+}
+a:link {
+color:white;
+}
+a:hover {
+color:gray;
+}
+a:visited {
+color:orange;
+}
+a:active {
+color:yellow;
+}
+footer {
+height: 34px;
+font-family:cambria;
+font-size:24px;
+color:blue;
+background-color:black;
+border-radius:30px 30px;
+clear:both;
+
+}
+#curriculum-links {
+float:left;
+width:50%;
+}
+#tuition-rates {
+width:50%;
+float:right;
+}
+#contact-info {
+float:left;
+width:50%;
+clear:left;
+}
+#aboutme-info {
+float:right;
+width:50%;
+}
+#training-philosophy {
+float:left;
+width:50%;
+}
+#Aiki-text1 {
+	border-radius:15px;
+	float:left;
+	clear:right;
+	padding:10px;
+	border:10px;
+	margin:10px;
+	height: 150px;
+	width: 270px;
+	background-color:green;
+	
+}
+#Aiki-media1 {
+	border-radius:15px;
+	float:left;
+	padding:10px;
+	border:10px;
+	margin:10px;
+	height: 150px;
+	width: 270px;
+	background-color:yellow;
+}
+#Aiki-text2{
+	border-radius:15px;
+	float:left;
+	padding:10px;
+	border:10px;
+	margin:10px;
+	height: 150px;
+	width: 270px;
+	background-color:green;
+	
+}
+#Aiki-media2{
+	border-radius:15px;
+	float:left;
+	padding:10px;
+	border:10px;
+	margin:10px;
+	height:150px;
+	width: 270px;
+	background-color:yellow;
+}
+#interview {
+	border-style:solid;
+	border-width:3px;
+	border-radius:15px;
+	height:250px;
+	width:350px;
+	border-color:red;
+	
+}

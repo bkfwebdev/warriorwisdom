@@ -1,5 +1,5 @@
 header {
-background-color:orange;
+background-color:blueviolet;
 font-family:impact;
 color:blue;
 font-size:50px;
@@ -11,14 +11,23 @@ font-family:impact;
 font-size:25px
 padding: none;
 }
+
 p {
 padding:5px;
+}
+
+header img {
+	border-style:solid;
+	border-width:2px;
+	border-color:black;
+
 }
 
 body {
 margin: 50px 50px 50px 50px;
 font-family:cambria;
-background:black;
+font-size: 16px;
+background:blueviolet;
 }
 p {
 color:white;
@@ -126,5 +135,11 @@ width:50%;
 #interview {
     margin-left:30%;
     margin-right: 30%;
-    padding:3px;
-	}
+	padding:3px;
+}
+
+#interview iframe {
+	border-style:solid;
+	border-width:2px;
+	border-color:white;
+}
